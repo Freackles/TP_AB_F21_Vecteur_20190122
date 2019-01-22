@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1548149656 source:c:\users\brayan\documents\mega\ludus f2\c\exo\tpvecteur\somme.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+
+1548151949 c:\users\brayan\documents\mega\ludus f2\c\exo\tpvecteur\declaration.h
+
+1548151718 source:c:\users\brayan\documents\mega\ludus f2\c\exo\tpvecteur\difference.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+
+1548151724 source:c:\users\brayan\documents\mega\ludus f2\c\exo\tpvecteur\vectorisation.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+
